@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Colors">
+        <item>Azul</item>
+        <item>Amarillo</item>
+        <item>Rojo</item>
+        <item>Magenta</item>
+        <item>Verde</item>
+        <item>Blanco</item>
+        <item>Negro</item>
+    </string-array>
+    <string-array name="parseColors">
+        <item>Blue</item>
+        <item>Yellow</item>
+        <item>Red</item>
+        <item>Magenta</item>
+        <item>Green</item>
+        <item>White</item>
+        <item>Black</item>
+    </string-array>
+</resources>
